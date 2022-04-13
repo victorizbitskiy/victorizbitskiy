@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-%230e76a8?style=flat&logo=linkedin)](https://www.linkedin.com/in/000111)
 [![Telegram](https://img.shields.io/badge/Telegram-ping-%232CA5E0?style=flat&logo=telegram)](https://t.me/nameci)
-[![website](https://img.shields.io/badge/personal-blog-%232CA5E0?style=flat)](https://abapcode.ru/)
+[![website](https://img.shields.io/badge/abapcode.ru-blog-%232CA5E0?style=flat)](https://abapcode.ru/)
 [![CV](https://img.shields.io/badge/CV-hire-success?style=flat)](https://drive.google.com/file/d/1ZQBGBGK2k_bXcaVxc2wpJ_xMCIJiWh8r/view)
 
 <!--
