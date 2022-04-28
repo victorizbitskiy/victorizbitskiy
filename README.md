@@ -7,6 +7,7 @@
 :rocket: My projects  
 
 [![website](https://img.shields.io/badge/abapcode.ru-blog-%232CA5E0?style=flat)](https://abapcode.ru/)
+[![Telegram](https://img.shields.io/badge/Telegram-@CleanCodeGuidesBot-27A03E?style=flat&logo=telegram)](https://t.me/CleanCodeGuidesBot)
 
 
 
