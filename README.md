@@ -1,7 +1,5 @@
 ### 🖖 Live long and prosper
 
-[![CV as ABAP dev](https://img.shields.io/badge/CV-hire-palegreen?style=flat)](https://drive.google.com/file/d/1ZQBGBGK2k_bXcaVxc2wpJ_xMCIJiWh8r/view)
-
 :rocket: My projects  
 
 [![Telegram](https://img.shields.io/badge/Telegram-@CleanCodeGuidesBot-palegreen?style=flat&logo=telegram)](https://t.me/CleanCodeGuidesBot)
