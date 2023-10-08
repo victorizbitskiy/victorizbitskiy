@@ -1,11 +1,5 @@
 ### 🖖 Live long and prosper
 
-:rocket: My projects  
-
-[![Telegram](https://img.shields.io/badge/Telegram-@CleanCodeGuidesBot-palegreen?style=flat&logo=telegram)](https://t.me/CleanCodeGuidesBot)
-
-
-
 <!--
 **victorizbitskiy/victorizbitskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
